@@ -1,0 +1,3 @@
+[submodule "todomvc"]
+	path = todomvc
+	url = https://github.com/filiphric/todomvc-expanded
